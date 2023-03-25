@@ -152,5 +152,3 @@ sudo service grafana-server status
 5. Save and exit the crontab file.
 
 That's it! Your Grafana SSL certificate will now be automatically renewed twice a day.
-
-Regenerate response
